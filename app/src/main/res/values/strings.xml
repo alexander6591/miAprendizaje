@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mi aprendizaje</string>
+    <string name="box_one">Box 1</string>
+    <string name="box_two">Box 2</string>
+    <string name="box_three">Box 3</string>
+    <string name="box_four">Box 4</string>
+    <string name="box_five">Box 5</string>
+    <string name="Box_six">Box 6</string>
+</resources>
